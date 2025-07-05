@@ -7,6 +7,29 @@
 ### By numbers...
 
 <a href="https://github.com/MrMohebi">
-<img height="160em" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrMohebi&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
-<img height="160em" align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrMohebi&theme=github_dark&hide_border=true&layout=compact" />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MrMohebi&theme=github_dark&show_icons=true&hide_border=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MrMohebi&show_icons=true&hide_border=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=MrMohebi&show_icons=true&hide_border=true&count_private=true" />
+</picture>
+
+<picture>
+<source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMohebi&theme=github_dark&hide_border=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMohebi&hide_border=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img  height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMohebi&hide_border=true&layout=compact" />
+</picture>
+
 </a>
